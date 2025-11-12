@@ -14,7 +14,7 @@
         <div class="navbar">
             <div class="menu">
                 
-                <a href="Login.aspx">Login/Sign in</a>
+               
                 <a href="Classes.aspx">Classes</a>
                 <a href="Membership.aspx">Membership</a>
                 <a href="Contact.aspx">Contact Us</a>
